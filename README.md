@@ -10,6 +10,7 @@ Copies pgn from gamefactory.zone-chess Telegram Bot
 ## How to use
 
 To copy the pgn, open game in chrome [Three Dots => open with/in] & execute the script below on browser address bar.
+If it did not work(as of chrome update) paste it in console.
 
 ```javascript
 javascript:(function () {var script =  document.createElement('script'); script.src="https://flash073.github.io/copy-pgn/pgnGrabberL.js"; document.body.appendChild(script); script.onload = function () { copyPgn() } })();
