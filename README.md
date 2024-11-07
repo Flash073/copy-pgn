@@ -19,7 +19,7 @@ javascript:(function () {var script =  document.createElement('script'); script.
 ## Features
 
 * Copies plain PGN to clipboard.
-* Opens [lichess.org](/lichess.org) to quickly paste.
+* Opens [lichess.org](lichess.org) to quickly paste.
 
 ## Note
 * 🔖 Bookmark the script with suitable name to open it quickly! 
